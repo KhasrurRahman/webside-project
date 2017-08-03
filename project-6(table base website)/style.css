@@ -1,0 +1,70 @@
+.mynave{padding:0;margin:0;list-style:none;}
+		
+.mynave li {
+  margin-left: 13px;
+}
+		.mynave li a {
+  background: #504f51 none repeat scroll 0 0;
+  border-bottom: 2px solid;
+  color: #eaeaea;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+		.mynave li a:hover{background:#E0DFE1;color:#2E2D2F}
+.mynave2 {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}	
+.mynave2 ul{}		
+.mynave2 li {
+  float: left;
+  margin-right: 31px;
+  padding: 19px;
+}.mynave2 li {
+  float: left;
+  margin-right: 31px;
+  padding: 19px;
+}
+.mynave2 li {
+  float: left;
+  height: 29px;
+  margin-right: 31px;
+  margin-top: 4px;
+  padding: 10px;
+}		
+.mynave2 li a {
+  background: #2e2d2f none repeat scroll 0 0;
+  color: #ddd;
+  text-decoration: none;
+  padding-left: 11px;
+  padding-right: 11px;
+}	
+.mynave2 li a:hover{background:#FFFFFF;color:#472904;}
+
+
+
+table.mytable {
+  margin-left: 71px;
+  margin-right: 10px;
+  margin-top: 34px;
+  width: 888px;
+  margin-bottom: 39px;
+}
+table.mytable tr td{text-align:center;}	
+table.mytable tr th{text-align:center;background:#2E2D2F;color:#FFFFFF;padding:3px;}	
+
+
+table.mytable tr:nth-child(2n+1){background:#FFFDFF;padding:5px;height:30px}
+
+
+table.mytable tr:nth-child(2n){background:#9B999B;color:#E0DFE1;height:30px;padding:5px;}
+		
+		
+		
+		
+		
+		
+		
+		

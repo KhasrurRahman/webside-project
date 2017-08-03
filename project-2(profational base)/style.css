@@ -1,0 +1,203 @@
+
+*{margin:0;padding:0;outline:0}
+body{font-family: 'Slabo 27px', serif;font-size:14px;line-height:18px;color:#333;background:#ECE9D7}
+.template{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+
+
+.headersection{height:80px;}
+.hader{background:#000000;}
+.headerleft{width:400px;float:left;color:#FFFFFF;}
+.headerleft h2 {
+	color: #FFFFFF;
+	font-size: 41px;
+	height: 49px;
+	padding: 28px 63px;
+}
+.headerright {
+  width: 445PX;
+  float: right;
+  padding: 32px 4px;
+}
+.headerright a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 17px;
+	font-weight: bold;
+}
+.headerright a:hover,#active{color:#09ABF1}
+
+
+.main{background:#FFFFFF}
+.sologan {
+  border-bottom: 3px solid #8e8e8e;
+  font-size: 28px;
+  line-height: 36px;
+  margin-bottom: 23px;
+  margin-left: 43px;
+  margin-right: 77px;
+  padding: 17px 60px;
+}
+  border-bottom: 3px solid #8e8e8e;
+  font-size: 28px;
+  line-height: 43px;
+  margin-bottom: 23px;
+  margin-left: 43px;
+  margin-right: 77px;
+  padding: 17px 60px;
+}
+	
+	padding: 42px 63px;
+}
+.sologan h2 {font-size:70px}
+.sologan h3 {
+  color: #b6b6b6;
+  font-size: 25px;
+  padding-left: 4px;
+}
+.description {
+  border-bottom: 3px solid #8e8e8e;
+  margin-left: 42px;
+  margin-right: 74px;
+  padding-bottom: 36px;
+}
+.description p {
+  font-size: 25px;
+  line-height: 27px;
+  color: #7b6e63;
+}
+
+
+.content {
+  border-bottom: 3px solid #9D9D9D;
+  margin-bottom: 44px;
+  margin-right: 67px;
+  margin-left: 45px;
+}
+.service {
+  background: #00a1f4 none repeat scroll 0 0;
+  float: left;
+  margin-bottom: 30px;
+  margin-left: 21px;
+  margin-top: 27px;
+  padding-bottom: 28px;
+  width: 250px;
+  box-shadow: 6px 8px 0px 0px #C5C5C5;
+}
+.service h2 {
+  color: #FCFCFC;
+  border-bottom: 1px dotted;
+  padding-bottom: 14px;
+  margin-bottom: 14px;
+  text-align: center;
+  margin-left: 23px;
+  margin-right: 32px;
+  padding-top: 14px;
+  font-size: 30px;
+}
+.service p {
+  text-align: center;
+  font-size: 19px;
+  color: #FFFFFF;
+  margin: 20px;
+  margin-bottom: 30px;
+  line-height: 20px;
+}
+.readmore {
+  background: #006b96 none repeat scroll 0 0;
+  padding: 12px 0px 8px 0px;
+  margin: 0px 9px -1px 14px;
+}
+.readmore a {
+  color: #ffffff;
+  font-size: 22px;
+  margin-left: 53px;
+  text-align: center;
+  text-decoration: none;
+}
+.readmore a:hover{}
+
+
+.mainbotton {
+  border-bottom: 3px dotted #c5c5c5;
+  padding-bottom: 43px;
+  padding-top: 3px;
+}
+.clientsection h2 {
+  color: #9a9a9a;
+  font-size: 35px;
+  line-height: 49px;
+  margin-bottom: 17px;
+}
+.clientsection {
+  border-right: 3px solid #9d9d9d;
+  float: left;
+  margin-left: 47px;
+  width: 400px;
+  padding-right: 45px;
+}
+.test{}
+.clintimage {
+  float: left;
+  margin-right: 29px;
+  margin-bottom: 19px;
+}
+.clintimage img {
+  height: 105px;
+  width: 85px;
+}
+.clintdetails {
+  float: left;
+  width: 277px;
+}
+.clintdetails p {
+  color: #767577;
+  font-size: 16px;
+}
+.clintdetails p a {
+  color: #00A1F4;
+  text-decoration: none;
+}
+.clintmane {
+  font-weight: bold;
+  margin-top: 9px;
+}
+
+
+.projectsection {
+  width: 400px;
+  float: right;
+}
+.projectsection h2{
+  color: #9a9a9a;
+  font-size: 35px;
+  line-height: 49px;
+  margin-bottom: 17px;
+}
+.projectsection h3 {
+  font-weight: bold;
+  color: #6d6060;
+}
+.projectsection img {
+  height: 202px;
+  width: 373px;
+}
+.projectsection p {
+  color: #535353;
+  font-size: 16px;
+  margin-top: 11px;
+}
+.projectsection a {
+  color: #00a1f4;
+  margin-top: 17px;
+  text-decoration: none;
+}
+
+.footersection {}
+.footersection p {
+  color: #9c7960;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
